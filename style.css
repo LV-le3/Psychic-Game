@@ -1,0 +1,23 @@
+
+
+
+body {
+	background-image: url("space.jpeg");
+	color:white;
+	text-align:center;
+	margin-right:20px;
+	margin-left:20px;
+}
+
+.heading{
+
+	font-family: 'Dr Sugiyama', cursive;
+	text-align:center;
+	color:white;
+}
+
+.nav{
+	font-family: 'Dr Sugiyama', cursive;
+	font-size: 30px;
+	color:white;
+}
